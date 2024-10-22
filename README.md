@@ -1,4 +1,4 @@
-### Rainfall Prediction Model
+# Rainfall Prediction Model
 
 #### Table of Contents
 - Project Overview
