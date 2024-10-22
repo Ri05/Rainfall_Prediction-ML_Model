@@ -64,8 +64,4 @@ Contributions are welcome. Here’s how you can contribute:
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to explore this project and contribute to improve this rainfall prediction model.
